@@ -132,6 +132,10 @@ footer {
   background-color: rgba(0, 0, 0, 0.8); /* Background overlay */
 }
 
+div p:hover {
+  font-size: 24px;
+  color: black;
+}
 /* Modal Image */
 .modal-content {
   margin: auto;
